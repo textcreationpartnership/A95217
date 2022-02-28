@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation, of the horrid and barbarous murther, committed on the bodys of Mr. Loggins, gent. and the ostler of the King's-Head in Coleshill in the county of VVarvvick, by four persons; whereof three were apprehended, and committed to the county-goal.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95217</idno>
+            <idno type="STC">Wing T2967</idno>
+            <idno type="STC">ESTC R230481</idno>
+            <idno type="EEBO-CITATION">99896030</idno>
+            <idno type="PROQUEST">99896030</idno>
+            <idno type="VID">153692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation, of the horrid and barbarous murther, committed on the bodys of Mr. Loggins, gent. and the ostler of the King's-Head in Coleshill in the county of VVarvvick, by four persons; whereof three were apprehended, and committed to the county-goal.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Mallet, next door to Mr. Shipton's coffee-house, near Fleet-bridge,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At end of text:  This may be printed, R.P. March the 16th. 1686.</note>
+                  <note>With an advertisement at the foot of p. 4.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loggins, --  Mr --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153692:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <head>A TRUE RELATION, of the Horrid and Barbarous MURTHER, Committed on the Bodys of Mr. <hi>Loggins,</hi> Gent. and the Oſtler of the <hi>King</hi>'s-<hi>Head</hi> in COLESHILL, in the County of WARWICK, By Four Perſons; whereof Three were Appre<g ref="char:EOLhyphen"/>hended, and Committed to the County-Goal.</head>
+            <p>STRANGE it is, to ſee how frequent of late, Murthers are Committed, and nothing can deter the Blood-thirſty; and it is as often obſerved, that the Actors of thoſe Cruelties ſeldome or never go undiſcovered, by one
+<pb n="2" facs="tcp:153692:2"/>
+               <!-- PDF PAGE 59 -->means or other, if they are not taken in the Act before they can make their Eſcape; for as the Devil is the Inſtigator of all Wickedneſs, and bringeth man-kind into Snares by his Delu<g ref="char:EOLhyphen"/>ſions, as by Drunkeneſs many times Murther is Committed, and other Acts of Violence, ſo at laſt he leaveth them, when they have acted their utmoſt parts of Wickedneſs, and nothing is ſo certain as Death; and therefore, if Man would conſider aright, what anſwer he muſt give at the laſt Day, for imbruing his hands in the Blood of his Fellow Creature Man, and the Ma<g ref="char:EOLhyphen"/>ſter-piece of his Creator: I ſay, if he would conſider aright, he rather ought to Love, Aſſiſt, Protect, and Help, than to Wound and Deſtroy: But Wickedneſs is grown to the higheſt in this our Age, and Acts of the blackeſt Hue and deepeſt Dye, as that of Murther, are accounted the greateſt Acts of Bravery.</p>
+            <p>But not to be too long in the Prologue of this Bloody Tra<g ref="char:EOLhyphen"/>gedy, the Story is as follows.</p>
+            <p>There is a conſiderable Town in <hi>Warwick-ſhire,</hi> called <hi>Cole<g ref="char:EOLhyphen"/>ſhill,</hi> Scituate high upon an Hill, well known to all Travellers that Ride the <hi>North-Weſt</hi> Road, it being a Through-fare, and the Randevouze of the Neighbouring Gentry; Scituate near the Mid-way, between the two great Towns of <hi>Coventry</hi> and <hi>Lich<g ref="char:EOLhyphen"/>field;</hi> it happened lately to be the Scene on which was Acted the following Bloody Murther; the manner as follows.</p>
+            <p>The Oſtler of the <hi>King</hi>'s-<hi>Head</hi> in the aforeſaid Town, having done ſome Courtiſie for a Gentleman Stranger, was invited over by the ſame Gentleman to the <hi>Swan-Tavern</hi> over the way, to take ſhare of a Pint of Wine, till Supper might be made ready at the <hi>King</hi>'s-<hi>Head;</hi> they were no ſooner ſeated in the Room to Drink, when came into the ſame Room four Perſons, Strangers, who ſeemed to be Gentlemen by their Habits, though only one of them had a Sword; they had been drinking very hard, and preſently began to ſhew the dire Effects of their De<g ref="char:EOLhyphen"/>bauchery: Firſt, they began to quarrel with the Oſtler, and to abuſe him, calling him a Saucy Fellow for offering to ſtay in their Room, and likewiſe to revile the Gentleman, for be<g ref="char:EOLhyphen"/>ing of ſo low a Spirit, to keep ſuch a mean perſon Company;
+<pb n="3" facs="tcp:153692:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 59 -->the Gentleman ſeeing them in ſuch a drunken condition, gave them good Words, wiſely thinking he ſhould have been as mad as they if he ſhould have done otherwiſe, but the Oſtler was not ſo ſmooth, upon which, they began to be very boy<g ref="char:EOLhyphen"/>ſterous in Words, and threat'ned him very ſore, upon which, he ſlip'd out of the Room, as conceiving himſelf to be in great dan<g ref="char:EOLhyphen"/>ger, whip'd over to his Maſters Houſe, the <hi>King</hi>'s-<hi>Head,</hi> and went up to a Room above, where ſome Neighbouring Gentlemen were drinking, to give them an account of what a Danger he had eſcaped at the <hi>Swan-Tavern;</hi> but he had ſcarce well began his Story, when the Perſons that had been ſo boyſterous at the <hi>Swan Tavern,</hi> came ſwaggering up the Stairs, crying, <hi>Where is the Rogue, where is the Rogue that has affronted us, we will have his Hearts Blood;</hi> at laſt they ſtaggered into the Chamber where they ſaw the Oſtler, upon which, the three that had no Swords, preſently cryed to the other that had a Sword, draw and Kill him, Kill them all, ſo he preſently fell upon the Oſtler, and ran him through the Body, at which, the Gentlemen in the Room being unarmed were aſtoniſhed, and ſhewed themſelves much concerned at ſo bloody a buſineſs, particularly one Mr. <hi>Log<g ref="char:EOLhyphen"/>gins,</hi> a Gentleman of a very civil Carriage and conſiderable Eſtate, well beloved by the Neighbouring Gentry, ſhewing by a compaſſionate geſture, his reſentment of this bloody Tra<g ref="char:EOLhyphen"/>gedy, which the Murtherer perceiving, and being inſtigated by the other three, he preſently fell upon Mr. <hi>Loggins,</hi> and woun<g ref="char:EOLhyphen"/>ded him mortally three times, ſo that he preſently dyed; while this laſt Murther was acting, the other perſons that were in the Room made their eſcape, or elſe it's probable they had born a ſhare in this diſmal Story; after they had Killed theſe two a<g ref="char:EOLhyphen"/>foreſaid Perſons, they began to think of making their eſcape, but three of them were preſently ſeized, and are now in <hi>War<g ref="char:EOLhyphen"/>wick Goal,</hi> but the fourth who was the Sword man, and the principal Actor, got to the Stable, got out his Horſe and fled, it being Night through the Town, without his Hat, and is not as yet Apprehended, where we leave him purſued by the Guilt of his own Conſcience till Juſtice Apprehend him, when time which brings all things to light, eſpecially Murthers diſcover this abominable Aſſaſſine; the three that are in the Goal are very Penitent, but it's thought they muſt expiate the Crime
+<pb n="4" facs="tcp:153692:3"/>
+               <!-- PDF PAGE 60 -->with their own blood, as being Abettors and Inſtigators of this Execrable Fact.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>R. P.</signed> 
+               <dateline>
+                  <date>
+                     <hi>March</hi> the 16th. 1686.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>The Truth of this Relation is atteſted by a very Credible Perſon.</p>
+            </postscript>
+         </div>
+         <div type="colophon">
+            <p>LONDON; <hi>Printed by</hi> E. Mallet, <hi>next Door to Mr.</hi> Shipton<hi>'s Coffee-Houſe, near</hi> Fleet-Bridge, <hi>1686.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT</head>
+            <p>Theſe are to give notice, that the Tryal of <hi>Charles Bateman</hi> Chirurgeon, together with the Tryals of <hi>John Holland, William Davis,</hi> and <hi>Agnes Wearing,</hi> who were Tryed at the <hi>Old-Bayly,</hi> for a Felony and Burglary committed on the Houſe of Mr. <hi>Leonel Gatford,</hi> Miniſter of <hi>Lyme-ſtreet;</hi> may be bad at <hi>E. Mallets</hi> as above directed.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
